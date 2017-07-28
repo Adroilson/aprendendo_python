@@ -1,3 +1,4 @@
+""" Disponivel no Github"""
 import random
 
 def principal():
